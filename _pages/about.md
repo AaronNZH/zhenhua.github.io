@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a second-year Master's student at Harbin Institute of Technology, supervised by Prof. [Pei wenjie](https://wenjiepei.github.io/)
+I'm currently a second-year Master's student at Harbin Institute of Technology, supervised by Prof. [Pei wenjie](https://wenjiepei.github.io/).
